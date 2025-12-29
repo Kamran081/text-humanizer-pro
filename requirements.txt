@@ -1,0 +1,10 @@
+transformers
+textblob
+nltk
+scikit-learn
+vaderSentiment
+textstat
+matplotlib
+seaborn
+python-docx
+fpdf
